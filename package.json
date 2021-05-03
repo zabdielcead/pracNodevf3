@@ -1,0 +1,26 @@
+{
+    "name": "climapp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zabdielcead/pracNodevf3.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zabdielcead/pracNodevf3/issues"
+    },
+    "homepage": "https://github.com/zabdielcead/pracNodevf3#readme",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "colors": "^1.4.0",
+        "dotenv": "^8.2.0",
+        "inquirer": "^8.0.0"
+    }
+}
